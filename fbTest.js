@@ -1,14 +1,25 @@
 var FB = require('fb');
+var fs = require('fs');
 
-FB.api('oauth/access_token', {
-    client_id: 'app_id',
-    client_secret: 'app_secret',
-    grant_type: 'client_credentials'
-}, function (res) {
-    if(!res || res.error) {
-        console.log(!res ? 'error occurred' : res.error);
-        return;
-    }
+FB.setAccessToken('CAACEdEose0cBAE0GtZC7BHlKNkn6MDnxZAQZArACAs5oVZCFIaeZAYUj9oYaWCgpSF4W6jgx17KUZATJc1GTWycPzAcubSjBJEBHxvELxIDTf9WNvTOzLvB75ZBZAbbOncAETZCbA21Fp6BDeXPoRZBs2pP05ZACOOKHKggJMtZBEd4FUpCFSSYpQ6KaATlOIYnSZASI461ZCmjq6SJK1eSmZCUgSNb');
 
-    var accessToken = res.access_token;
+FB.api('/v2.3/me/home', function (err, data) {
+	if(err) {
+		console.log(err);
+		return;
+	}
+
+	var parsed = JSON.parse(data);
+	
+	fs.writeFile('message.txt', data, function (err) {
+		if (err) {
+			console.log(err);
+		}
+		console.log('It\'s saved!');
+	});
+	
+	//console.log(parse);
+	//console.log(data);
 });
+
+
