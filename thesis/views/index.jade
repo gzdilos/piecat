@@ -1,5 +1,18 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+	h1= title
+	p Login with your Facebook credentials
+	
+	form#formAddUser(name="adduser",method="post",action="/adduser")
+		b Facebook Email
+		br
+		input#inputUserName(type="text", placeholder="Email", name="Email")
+		br
+		br
+		b Password
+		br
+		input#inputUserEmail(type="password", placeholder="Password", name="Password")
+		br
+		br
+		button#btnSubmit(type="submit") submit
