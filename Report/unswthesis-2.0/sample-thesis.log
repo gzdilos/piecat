@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.14)  14 MAY 2015 19:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.14)  16 MAY 2015 11:37
 entering extended mode
 **C:/Users/User/Desktop/Thesis-Source-Code/Report/unswthesis-2.0/sample-thesis.
 tex
@@ -122,6 +122,11 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 \botmargin=\skip55
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
 \@input{definitions.aux}
 
 (C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\definitions.tex
@@ -141,28 +146,28 @@ x)
 (C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\conclusion.aux)
 (C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\appendix1.aux)
 (C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\appendix2.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count92
-\scratchdimen=\dimen111
+\scratchdimen=\dimen113
 \scratchbox=\box26
 \nofMPsegments=\count93
 \nofMParguments=\count94
 \everyMPshowfont=\toks16
 \MPscratchCnt=\count95
-\MPscratchDim=\dimen112
+\MPscratchDim=\dimen114
 \MPnumerator=\count96
 \makeMPintoPDFobject=\count97
 \everyMPtoPDFconversion=\toks17
@@ -202,23 +207,23 @@ LaTeX Font Info:    ... okay on input line 35.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \@tmpb@x=\box27
-\@titlewidth=\dimen113
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 39.
+\@titlewidth=\dimen115
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 40.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 <crest.pdf, id=1, 147.27522pt x 154.20912pt>
 File: crest.pdf Graphic file (type pdf)
  <use crest.pdf>
-Package pdftex.def Info: crest.pdf used on input line 39.
+Package pdftex.def Info: crest.pdf used on input line 40.
 (pdftex.def)             Requested size: 147.27486pt x 154.20872pt.
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 39.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14> on input line 39.
+(Font)              <14> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.79996> on input line 39.
+(Font)              <9.79996> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 39.
+(Font)              <7> on input line 40.
  [1
 
 
@@ -261,9 +266,15 @@ oc [5
 (C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\sample-thesis.l
 of)
 \tf@lof=\write6
+ <images/dog.jpg, id=68, 256.96pt x 256.96pt>
+File: images/dog.jpg Graphic file (type jpg)
+ <use images/dog.jpg>
+Package pdftex.def Info: images/dog.jpg used on input line 52.
+(pdftex.def)             Requested size: 256.95937pt x 256.95937pt.
  [7
 
-]
+ <C:/Users/User/Desktop/Thesis-Source-Code/Report/unswthesis-2.0/images/dog.jpg
+>]
 (C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\sample-thesis.l
 ot)
 \tf@lot=\write7
@@ -366,10 +377,10 @@ x)
 (C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\appendix2.aux))
  ) 
 Here is how much of TeX's memory you used:
- 2152 strings out of 493921
- 34026 string characters out of 3144879
- 97124 words of memory out of 3000000
- 5351 multiletter control sequences out of 15000+200000
+ 2211 strings out of 493921
+ 34902 string characters out of 3144879
+ 98034 words of memory out of 3000000
+ 5404 multiletter control sequences out of 15000+200000
  17333 words of font info for 45 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  31i,13n,45p,613b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -385,9 +396,9 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/urw/helvetic/uhvr8a.pfb>
-Output written on sample-thesis.pdf (25 pages, 334346 bytes).
+Output written on sample-thesis.pdf (25 pages, 346982 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
+ 169 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

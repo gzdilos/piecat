@@ -1,4 +1,5 @@
 \documentclass[]{unswthesis}
+\usepackage{graphicx}
 
 %%% Class options:
 
@@ -20,12 +21,12 @@
 \thesisschool{School of Computer Science and Engineering}
 %\thesisschool{School of Photovoltaic and Renewable Energy Engineering}
 \thesisauthor{Geoffrey Zhu and Richard Zhang}
-\thesisZid{z3415440 and z3416477}
-\thesistopic{3031}  % for undergrad theses only
+\thesisZid{ z3415440, z3416477}
+\thesistopic{ 3031}  % for undergrad theses only
 \thesisdegree{Bachelor of Engineering in Computer Engineering}
 %\thesisdegree{Doctor of Philosophy}
-\thesisdate{June 2015}
-\thesissupervisor{Dr Hye-young Paik}% for undergrad theses only
+\thesisdate{26th May 2015}
+\thesissupervisor{Dr Hye-young Paik}% for undergrad theses only				
 
 
 %% My own LaTeX macros, definitions, etc
@@ -44,6 +45,14 @@
 
 \tableofcontents
 \listoffigures  % if required
+
+% Image Example
+\begin{figure}[ht!]
+%\centering
+\graphicspath{{images/} }
+\includegraphics{dog.jpg}
+\end{figure}
+
 \listoftables  % if required
 
 %% pages in the ``mainmatter'' section have arabic page numbers and chapters are numbered
