@@ -1,10 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.14)  16 MAY 2015 11:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.14)  18 MAY 2015 22:04
 entering extended mode
-**C:/Users/User/Desktop/Thesis-Source-Code/Report/unswthesis-2.0/sample-thesis.
-tex
-
-(C:/Users/User/Desktop/Thesis-Source-Code/Report/unswthesis-2.0/sample-thesis.t
-ex
+**C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/sample-thesis.tex
+(C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/sample-thesis.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -16,7 +13,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\unswthesis.cls
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\unswthesis.cls
 Document Class: unswthesis 2015/04/30 v2.0.1 Faculty of Engineering, University
  of NSW Thesis Class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
@@ -128,24 +125,18 @@ Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@width=\dimen112
 )
 \@input{definitions.aux}
-
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\definitions.tex
-)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\sample-thesis.a
-ux (C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\abstract.aux
-)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\acknowledgement
-s.aux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\abbreviations.a
-ux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\introduction.au
-x)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\background.aux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\mywork.aux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\evaluation.aux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\conclusion.aux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\appendix1.aux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\appendix2.aux))
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\definitions.tex)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.aux
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abstract.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\acknowledgements.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abbreviations.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\introduction.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\background.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\mywork.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\evaluation.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\conclusion.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix1.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix2.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
@@ -158,6 +149,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
+
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count92
@@ -230,107 +222,93 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/User/Desktop/The
-sis-Source-Code/Report/unswthesis-2.0/crest.pdf>]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\abstract.tex
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/User/Desktop/pie
+cat/Report/unswthesis-2.0/crest.pdf>]
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abstract.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 5.
-)
-[2
+) [2
 
 
 ]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\acknowledgement
-s.tex) [3
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\acknowledgements.tex)
+[3
 
 
 
-]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\abbreviations.t
-ex) [4
+] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abbreviations.tex)
+[4
 
 
 
-]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\sample-thesis.t
-oc [5
+] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.toc
+[5
 
 
 ])
 \tf@toc=\write5
- [6]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\sample-thesis.l
-of)
+ [6] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.lof)
 \tf@lof=\write6
- <images/dog.jpg, id=68, 256.96pt x 256.96pt>
+<images/dog.jpg, id=68, 256.96pt x 256.96pt>
 File: images/dog.jpg Graphic file (type jpg)
  <use images/dog.jpg>
-Package pdftex.def Info: images/dog.jpg used on input line 52.
+Package pdftex.def Info: images/dog.jpg used on input line 53.
 (pdftex.def)             Requested size: 256.95937pt x 256.95937pt.
  [7
 
- <C:/Users/User/Desktop/Thesis-Source-Code/Report/unswthesis-2.0/images/dog.jpg
->]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\sample-thesis.l
-ot)
+ <C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/images/dog.jpg>]
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.lot)
 \tf@lot=\write7
  [8
 
 ]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\introduction.te
-x
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\introduction.tex
 Chapter 1.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
 ) [1
 
 
 
 
 ]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\background.tex
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\background.tex
 Chapter 2.
 ) [2
 
 
 
-]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\mywork.tex
+] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\mywork.tex
 Chapter 3.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 14.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
- [3
+[3
 
 
 
-] [4] [5]
-[6]
+] [4] [5] [6]
 Chapter 4.
 [7
 
-]) [8]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\evaluation.tex
+]) [8] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\evaluation.tex
 Chapter 5.
 ) [9
 
 
 
-]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\conclusion.tex
+] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\conclusion.tex
 Chapter 6.
 ) [10
 
 
 
-]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\sample-thesis.b
-bl
+] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.bbl
 Underfull \hbox (badness 2393) in paragraph at lines 30--37
 \OT1/cmr/m/n/10.95 and notes for stu-dents.  http:// scoff.ee.unsw.edu.au/ doc-
 u-ment/ the-sis/
@@ -340,8 +318,7 @@ u-ment/ the-sis/
 
 
 
-]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\appendix1.tex
+] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix1.tex
 Overfull \hbox (2.16803pt too wide) in paragraph at lines 10--23
 [] [] 
  []
@@ -354,49 +331,44 @@ Underfull \vbox (badness 5637) has occurred while \output is active []
 
 ]
 [13] [14]) [15]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\appendix2.tex
-[16
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix2.tex [16
 
 
 
-]) [17]
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\sample-thesis.a
-ux (C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\abstract.aux
-)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\acknowledgement
-s.aux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\abbreviations.a
-ux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\introduction.au
-x)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\background.aux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\mywork.aux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\evaluation.aux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\conclusion.aux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\appendix1.aux)
-(C:\Users\User\Desktop\Thesis-Source-Code\Report\unswthesis-2.0\appendix2.aux))
- ) 
+])
+[17] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.aux
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abstract.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\acknowledgements.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abbreviations.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\introduction.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\background.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\mywork.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\evaluation.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\conclusion.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix1.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix2.aux)) ) 
 Here is how much of TeX's memory you used:
- 2211 strings out of 493921
- 34902 string characters out of 3144879
+ 2212 strings out of 493921
+ 33970 string characters out of 3144879
  98034 words of memory out of 3000000
- 5404 multiletter control sequences out of 15000+200000
+ 5405 multiletter control sequences out of 15000+200000
  17333 words of font info for 45 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,13n,45p,613b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/urw/helvetic/uhvr8a.pfb>
-Output written on sample-thesis.pdf (25 pages, 346982 bytes).
+ 31i,13n,45p,601b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/h
+elvetic/uhvr8a.pfb>
+Output written on sample-thesis.pdf (25 pages, 347068 bytes).
 PDF statistics:
  169 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
