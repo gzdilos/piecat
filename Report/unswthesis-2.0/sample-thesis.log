@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.14)  19 MAY 2015 20:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.14)  19 MAY 2015 22:50
 entering extended mode
 **C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/sample-thesis.tex
 (C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/sample-thesis.tex
@@ -127,16 +127,10 @@ Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 \@input{definitions.aux}
 (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\definitions.tex)
 (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.aux
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abstract.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\acknowledgements.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abbreviations.aux)
 (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\introduction.aux)
 (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\background.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\mywork.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\evaluation.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\conclusion.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix1.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix2.aux))
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\proposal.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\plan.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
@@ -224,57 +218,39 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/User/Desktop/pie
 cat/Report/unswthesis-2.0/crest.pdf>]
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abstract.tex
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 5.
+(Font)              <10.95> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 5.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+(Font)              <6> on input line 3.
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
-) [2
-
-
-]
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\acknowledgements.tex)
-[3
-
-
-
-] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abbreviations.tex)
-[4
-
-
-
-] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.toc
-[5
-
-
-])
 \tf@toc=\write5
- [6] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.lof)
-\tf@lof=\write6
-<images/dog.jpg, id=69, 256.96pt x 256.96pt>
-File: images/dog.jpg Graphic file (type jpg)
- <use images/dog.jpg>
-Package pdftex.def Info: images/dog.jpg used on input line 53.
-(pdftex.def)             Requested size: 256.95937pt x 256.95937pt.
- [7
-
- <C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/images/dog.jpg>]
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.lot)
-\tf@lot=\write7
- [8
+ [2
 
 ]
 (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\introduction.tex
 Chapter 1.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+
+
+LaTeX Warning: Reference `ch:style' on page 1 undefined on input line 18.
+
+
+LaTeX Warning: Reference `ch:content' on page 1 undefined on input line 20.
+
+
+LaTeX Warning: Reference `ch:eval' on page 1 undefined on input line 21.
+
+
+LaTeX Warning: Reference `ch:conclusion' on page 1 undefined on input line 22.
+
 ) [1
 
 
@@ -286,25 +262,15 @@ Chapter 2.
 
 
 
-] [3] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\mywork.tex
+] [3] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\proposal.tex
 Chapter 3.
-[4
+) [4
 
 
 
-] [5] [6] [7]
+] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\plan.tex
 Chapter 4.
-[8
-
-]) [9] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\evaluation.tex
-Chapter 5.
-) [10
-
-
-
-] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\conclusion.tex
-Chapter 6.
-) [11
+) [5
 
 
 
@@ -314,59 +280,40 @@ Underfull \hbox (badness 2393) in paragraph at lines 30--37
 u-ment/ the-sis/
  []
 
-) [12
+) [6
 
 
 
-] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix1.tex
-Overfull \hbox (2.16803pt too wide) in paragraph at lines 15--28
-[] [] 
- []
-
-[13
-
-
-] [14] [15]) [16]
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix2.tex [17
-
-
-
-])
-[18] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.aux
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abstract.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\acknowledgements.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abbreviations.aux)
+] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.aux
 (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\introduction.aux)
 (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\background.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\mywork.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\evaluation.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\conclusion.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix1.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix2.aux)) ) 
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\proposal.aux)
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\plan.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2212 strings out of 493921
- 33970 string characters out of 3144879
- 98036 words of memory out of 3000000
- 5405 multiletter control sequences out of 15000+200000
- 17333 words of font info for 45 fonts, out of 3000000 for 9000
+ 2142 strings out of 493921
+ 30964 string characters out of 3144879
+ 94476 words of memory out of 3000000
+ 5388 multiletter control sequences out of 15000+200000
+ 16251 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,13n,45p,601b,365s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
-e1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/h
-elvetic/uhvr8a.pfb>
-Output written on sample-thesis.pdf (26 pages, 348937 bytes).
+ 32i,12n,45p,299b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on sample-thesis.pdf (8 pages, 279831 bytes).
 PDF statistics:
- 172 PDF objects out of 1000 (max. 8388607)
+ 106 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
