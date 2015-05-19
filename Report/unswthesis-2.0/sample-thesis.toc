@@ -3,28 +3,28 @@
 \contentsline {section}{\numberline {2.1}Previous work}{2}
 \contentsline {section}{\numberline {2.2}Pie is the best food}{2}
 \contentsline {section}{\numberline {2.3}Previous work3}{2}
-\contentsline {chapter}{\numberline {3}Style and Submission Requirements}{3}
-\contentsline {section}{\numberline {3.1}Format}{3}
-\contentsline {section}{\numberline {3.2}Other physical appearance}{4}
-\contentsline {section}{\numberline {3.3}Submission}{5}
-\contentsline {chapter}{\numberline {4}Content Requirements}{7}
-\contentsline {section}{\numberline {4.1}Structure}{7}
-\contentsline {section}{\numberline {4.2}Style of writing}{7}
-\contentsline {section}{\numberline {4.3}Documentation}{8}
-\contentsline {chapter}{\numberline {5}Evaluation}{9}
-\contentsline {section}{\numberline {5.1}Results}{9}
-\contentsline {section}{\numberline {5.2}Discussion}{9}
-\contentsline {chapter}{\numberline {6}Conclusion}{10}
-\contentsline {section}{\numberline {6.1}Future Work}{10}
-\contentsline {chapter}{Bibliography}{11}
-\contentsline {chapter}{Appendix 1}{12}
-\contentsline {section}{\numberline {A.1}Options}{12}
-\contentsline {section}{\numberline {A.2}Margins}{12}
-\contentsline {section}{\numberline {A.3}Page Headers}{13}
-\contentsline {subsection}{\numberline {A.3.1}Undergraduate Theses}{13}
-\contentsline {subsection}{\numberline {A.3.2}Higher Degree Research Theses}{13}
-\contentsline {section}{\numberline {A.4}Page Footers}{13}
-\contentsline {section}{\numberline {A.5}Double Spacing}{14}
-\contentsline {section}{\numberline {A.6}Files}{14}
-\contentsline {chapter}{Appendix 2}{16}
-\contentsline {section}{\numberline {B.1}Data}{16}
+\contentsline {chapter}{\numberline {3}Style and Submission Requirements}{4}
+\contentsline {section}{\numberline {3.1}Format}{4}
+\contentsline {section}{\numberline {3.2}Other physical appearance}{5}
+\contentsline {section}{\numberline {3.3}Submission}{6}
+\contentsline {chapter}{\numberline {4}Content Requirements}{8}
+\contentsline {section}{\numberline {4.1}Structure}{8}
+\contentsline {section}{\numberline {4.2}Style of writing}{8}
+\contentsline {section}{\numberline {4.3}Documentation}{9}
+\contentsline {chapter}{\numberline {5}Evaluation}{10}
+\contentsline {section}{\numberline {5.1}Results}{10}
+\contentsline {section}{\numberline {5.2}Discussion}{10}
+\contentsline {chapter}{\numberline {6}Conclusion}{11}
+\contentsline {section}{\numberline {6.1}Future Work}{11}
+\contentsline {chapter}{Bibliography}{12}
+\contentsline {chapter}{Appendix 1}{13}
+\contentsline {section}{\numberline {A.1}Options}{13}
+\contentsline {section}{\numberline {A.2}Margins}{13}
+\contentsline {section}{\numberline {A.3}Page Headers}{14}
+\contentsline {subsection}{\numberline {A.3.1}Undergraduate Theses}{14}
+\contentsline {subsection}{\numberline {A.3.2}Higher Degree Research Theses}{14}
+\contentsline {section}{\numberline {A.4}Page Footers}{14}
+\contentsline {section}{\numberline {A.5}Double Spacing}{15}
+\contentsline {section}{\numberline {A.6}Files}{15}
+\contentsline {chapter}{Appendix 2}{17}
+\contentsline {section}{\numberline {B.1}Data}{17}

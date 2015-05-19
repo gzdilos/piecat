@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.14)  18 MAY 2015 22:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.14)  19 MAY 2015 20:25
 entering extended mode
 **C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/sample-thesis.tex
 (C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/sample-thesis.tex
@@ -231,6 +231,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 5.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
 ) [2
 
 
@@ -253,7 +260,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write5
  [6] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.lof)
 \tf@lof=\write6
-<images/dog.jpg, id=68, 256.96pt x 256.96pt>
+<images/dog.jpg, id=69, 256.96pt x 256.96pt>
 File: images/dog.jpg Graphic file (type jpg)
  <use images/dog.jpg>
 Package pdftex.def Info: images/dog.jpg used on input line 53.
@@ -268,43 +275,36 @@ Package pdftex.def Info: images/dog.jpg used on input line 53.
 ]
 (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\introduction.tex
 Chapter 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
 ) [1
 
 
 
 
-]
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\background.tex
+] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\background.tex
 Chapter 2.
 ) [2
 
 
 
-] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\mywork.tex
+] [3] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\mywork.tex
 Chapter 3.
-[3
+[4
 
 
 
-] [4] [5] [6]
+] [5] [6] [7]
 Chapter 4.
-[7
+[8
 
-]) [8] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\evaluation.tex
+]) [9] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\evaluation.tex
 Chapter 5.
-) [9
+) [10
 
 
 
 ] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\conclusion.tex
 Chapter 6.
-) [10
+) [11
 
 
 
@@ -314,29 +314,25 @@ Underfull \hbox (badness 2393) in paragraph at lines 30--37
 u-ment/ the-sis/
  []
 
-) [11
+) [12
 
 
 
 ] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix1.tex
-Overfull \hbox (2.16803pt too wide) in paragraph at lines 10--23
+Overfull \hbox (2.16803pt too wide) in paragraph at lines 15--28
 [] [] 
  []
 
-
-Underfull \vbox (badness 5637) has occurred while \output is active []
-
- [12
+[13
 
 
-]
-[13] [14]) [15]
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix2.tex [16
+] [14] [15]) [16]
+(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\appendix2.tex [17
 
 
 
 ])
-[17] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.aux
+[18] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.aux
 (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abstract.aux)
 (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\acknowledgements.aux)
 (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\abbreviations.aux)
@@ -350,11 +346,11 @@ Underfull \vbox (badness 5637) has occurred while \output is active []
 Here is how much of TeX's memory you used:
  2212 strings out of 493921
  33970 string characters out of 3144879
- 98034 words of memory out of 3000000
+ 98036 words of memory out of 3000000
  5405 multiletter control sequences out of 15000+200000
  17333 words of font info for 45 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,13n,45p,601b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,13n,45p,601b,365s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86
 )/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/
@@ -368,9 +364,9 @@ ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 ype1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
 e1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/h
 elvetic/uhvr8a.pfb>
-Output written on sample-thesis.pdf (25 pages, 347068 bytes).
+Output written on sample-thesis.pdf (26 pages, 348937 bytes).
 PDF statistics:
- 169 PDF objects out of 1000 (max. 8388607)
+ 172 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
