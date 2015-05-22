@@ -1,12 +1,11 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {chapter}{\numberline {2}Background}{2}
-\contentsline {section}{\numberline {2.1}Previous work}{2}
-\contentsline {section}{\numberline {2.2}Pie is the best food}{2}
-\contentsline {section}{\numberline {2.3}Previous work3}{2}
+\contentsline {section}{\numberline {2.1}User Modelling}{2}
+\contentsline {section}{\numberline {2.2}Ranking Algorithms}{2}
+\contentsline {section}{\numberline {2.3}Sample}{3}
 \contentsline {chapter}{\numberline {3}Proposal}{4}
-\contentsline {section}{\numberline {3.1}How we do this}{4}
-\contentsline {section}{\numberline {3.2}Cars are fast}{4}
-\contentsline {section}{\numberline {3.3}Toilet}{4}
+\contentsline {section}{\numberline {3.1}Our Solution}{4}
 \contentsline {chapter}{\numberline {4}Plan}{5}
 \contentsline {section}{\numberline {4.1}Plan}{5}
-\contentsline {chapter}{Bibliography}{6}
+\contentsline {section}{\numberline {4.2}Evaluation}{5}
+\contentsline {chapter}{Bibliography}{7}

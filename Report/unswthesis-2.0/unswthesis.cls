@@ -197,6 +197,8 @@
 \newcommand{\thesisfacultyl}[1]{\gdef\ThesisFacultyName{#1}}
 \newcommand{\thesisschool}[1]{\gdef\ThesisSchoolName{#1}}
 \newcommand{\thesistitle}[1]{\gdef\ThesisTitle{#1}}
+% Made a change here
+\newcommand{\thesissubtitle}[1]{\gdef\ThesisSubtitle{#1}}
 \newcommand{\thesisauthor}[1]{\gdef\ThesisAuthor{#1}}
 \newcommand{\thesisZid}[1]{\gdef\ThesisAuthorZid{#1}}
 \newcommand{\thesistopic}[1]{\gdef\ThesisTopicID{#1}}
@@ -205,6 +207,8 @@
 \newcommand{\thesissupervisor}[1]{\gdef\ThesisSupervisorName{#1}}
 
 \newcommand{\ThesisTitle}{\@latex@error{No \noexpand\thesistitle given}\@ehc}
+% Made a change here
+\newcommand{\ThesisSubtitle}{\@latex@error{No \noexpand\thesissubtitle given}\@ehc}
 \newcommand{\ThesisAuthor}{\@latex@error{No \noexpand\thesisauthor given}\@ehc}
 \newcommand{\ThesisAuthorZid}{\@latex@error{No \noexpand\thesisZid given}\@ehc}
 \newcommand{\ThesisDegreeName}{\@latex@error{No \noexpand\thesisdegree given}\@ehc}
@@ -419,8 +423,10 @@ Graduate Research.
 \def\coverpagefont{\fontfamily{phv}\fontsize{14pt}{20pt}\selectfont}
 \def\boldcoverpagefont{\fontfamily{phv}\fontseries{b}\fontsize{14pt}{20pt}\selectfont}
 \def\largecoverpagefont{\fontfamily{phv}\fontsize{22pt}{32pt}\selectfont}
-\def\largeboldcoverpagefont{\fontfamily{phv}\fontseries{b}\fontsize{22pt}{36pt}\selectfont}
-\def\largeslantedcoverpagefont{\fontfamily{phv}\fontshape{sl}\fontsize{22pt}{32pt}\selectfont}
+\def\largeboldcoverpagefont{\fontfamily{phv}\fontseries{b}\fontsize{20pt}{30pt}\selectfont}
+%Change here
+\def\smallboldcoverpagefont{\fontfamily{phv}\fontseries{b}\fontsize{18pt}{36pt}\selectfont}
+\def\largeslantedcoverpagefont{\fontfamily{phv}\fontshape{sl}\fontsize{18pt}{32pt}\selectfont}
 
 \if@ugrad
 \renewcommand{\maketitle}%
@@ -430,29 +436,36 @@ Graduate Research.
 	\begin{center}%
             \coverpagefont%
             \includegraphics{crest}%
-	    \vskip 0pt plus 8fill
+	    \vskip 0pt plus 8fill % Was 8
 	    {\boldcoverpagefont \ThesisSchoolName\par}%
 	    {\boldcoverpagefont \ThesisFacultyName\par}%
 	    {\boldcoverpagefont The University of New South Wales\par}%
-	    \vskip 0pt plus 8fill%
+	    \vskip 0pt plus 8fill% %Was 8
 	    {\largeboldcoverpagefont \ThesisTitle \par}%
-	    \vskip 0pt plus 5fill%
+	    \vskip 0pt plus 4fill% 
+		{\smallboldcoverpagefont \ThesisSubtitle \par}%
+	    \vskip 0pt plus 2fill% 
             by
-	    \vskip 0pt plus 4fill%
+	    \vskip 0pt plus 2fill%
 	    {\largecoverpagefont \ThesisAuthor \par}%
-            \vskip 0pt plus 12fill
+            \vskip 0pt plus 12fill % Was 12
 	    Thesis submitted as a requirement for the degree of\\[1ex]
             \ThesisDegreeName \par%
-	    \vskip 0pt plus 12fill
-            \begin{tabular}{@{}rl}
-              Submitted: & \ThesisDate \vrule width 0pt depth 10pt\\
+	    \vskip 0pt plus 12fill % was 12
+            \begin{tabular}{@{}@{}rl} % was @{}rl
+              Submitted: & \ThesisDate \vrule width 0pt depth 8pt\\
               Supervisor: & \ThesisSupervisorName
+			  %Student ID: & \ThesisAuthorZid \vrule width 0pt depth 8pt\\
+              %Topic ID: & \ThesisTopicID
             \end{tabular}
             \hfill
-            \begin{tabular}{rl@{}}
-              Student ID: & \ThesisAuthorZid \vrule width 0pt depth 10pt\\
+            \begin{tabular}{rl@{}} % was r1@{}
+			  %Submitted: & \ThesisDate \vrule width 0pt depth 8pt\\
+              %Supervisor: & \ThesisSupervisorName	
+              Student ID: & \ThesisAuthorZid \vrule width 0pt depth 8pt\\
               Topic ID: & \ThesisTopicID
-            \end{tabular}\par
+            \end{tabular} \par
+			%\hfill
 	\end{center}\par
     \end{titlepage}}%
 \else
