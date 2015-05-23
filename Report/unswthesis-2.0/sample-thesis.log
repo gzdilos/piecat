@@ -1,7 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.14)  22 MAY 2015 12:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  23 MAY 2015 14:51
 entering extended mode
-**C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/sample-thesis.tex
-(C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/sample-thesis.tex
+**C:/Users/Richard/Documents/uni/Thesis/Source*Code/Thesis-Source-Code/thesis/p
+iecat/Report/unswthesis-2.0/sample-thesis.tex
+
+("C:/Users/Richard/Documents/uni/Thesis/Source Code/Thesis-Source-Code/thesis/p
+iecat/Report/unswthesis-2.0/sample-thesis.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +16,9 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\unswthesis.cls
+
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\unswthesis.cls"
 Document Class: unswthesis 2015/04/30 v2.0.1 Faculty of Engineering, University
  of NSW Thesis Class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
@@ -125,12 +130,19 @@ Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@width=\dimen112
 )
 \@input{definitions.aux}
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\definitions.tex)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.aux
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\introduction.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\background.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\proposal.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\plan.aux))
+
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\definitions.tex")
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\sample-thesis.aux"
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\introduction.aux")
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\background.aux")
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\proposal.aux")
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\plan.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
@@ -216,9 +228,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/User/Desktop/pie
-cat/Report/unswthesis-2.0/crest.pdf>]
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.toc
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Richard/Document
+s/uni/Thesis/Source Code/Thesis-Source-Code/thesis/piecat/Report/unswthesis-2.0
+/crest.pdf>]
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\sample-thesis.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -230,26 +244,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2
 
 ]
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\introduction.tex
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\introduction.tex"
 Chapter 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 4.
+[1
+
+
+
+
+]) [2]
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\background.tex"
+Chapter 2.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
-) [1
-
-
-
-
-]
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\background.tex
-Chapter 2.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
-[2
+ [3
 
 
 
@@ -259,31 +275,32 @@ Overfull \hbox (7.02089pt too wide) in paragraph at lines 38--40
 red so I looked at Mat [[]]
  []
 
-) [3] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\proposal.tex
+) [4]
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\proposal.tex"
 Chapter 3.
-) [4
-
-
-
-] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\plan.tex
-Chapter 4.
-<images/blockdiagram.jpg, id=68, 499.8675pt x 481.8pt>
-File: images/blockdiagram.jpg Graphic file (type jpg)
-
-<use images/blockdiagram.jpg>
-Package pdftex.def Info: images/blockdiagram.jpg used on input line 22.
-(pdftex.def)             Requested size: 499.86627pt x 481.79881pt.
-
-Overfull \hbox (87.3013pt too wide) in paragraph at lines 22--23
- [][] 
- []
-
 ) [5
 
 
 
-] [6 <C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/images/blockdiagram.jp
-g>] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.bbl
+]
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\plan.tex"
+Chapter 4.
+<images/blockdiagram.jpg, id=72, 499.8675pt x 481.8pt>
+File: images/blockdiagram.jpg Graphic file (type jpg)
+
+<use images/blockdiagram.jpg>
+Package pdftex.def Info: images/blockdiagram.jpg used on input line 16.
+(pdftex.def)             Requested size: 249.93314pt x 240.8994pt.
+ [6
+
+
+
+ <C:/Users/Richard/Documents/uni/Thesis/Source Code/Thesis-Source-Code/thesis/p
+iecat/Report/unswthesis-2.0/images/blockdiagram.jpg>]) [7]
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\sample-thesis.bbl"
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
@@ -296,36 +313,41 @@ Underfull \hbox (badness 1122) in paragraph at lines 65--71
 sw.edu.au/
  []
 
-[7
+[8
 
 
 
-]) [8] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.aux
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\introduction.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\background.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\proposal.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\plan.aux)) ) 
+]) [9]
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\sample-thesis.aux"
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\introduction.aux")
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\background.aux")
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\proposal.aux")
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\plan.aux")) ) 
 Here is how much of TeX's memory you used:
  2153 strings out of 493921
- 31199 string characters out of 3144879
+ 33305 string characters out of 3144870
  96609 words of memory out of 3000000
  5395 multiletter control sequences out of 15000+200000
  17884 words of font info for 43 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 32i,12n,45p,1031b,332s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
-/helvetic/uhvr8a.pfb>
-Output written on sample-thesis.pdf (10 pages, 302449 bytes).
+ 32i,13n,45p,932b,326s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8
+a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on sample-thesis.pdf (11 pages, 306102 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 112 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

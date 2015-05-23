@@ -1,7 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.14)  18 MAY 2015 22:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  23 MAY 2015 12:05
 entering extended mode
-**C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/introduction.tex
-(C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/introduction.tex
+**C:/Users/Richard/Documents/uni/Thesis/Source*Code/Thesis-Source-Code/thesis/p
+iecat/Report/unswthesis-2.0/introduction.tex
+
+("C:/Users/Richard/Documents/uni/Thesis/Source Code/Thesis-Source-Code/thesis/p
+iecat/Report/unswthesis-2.0/introduction.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -25,10 +28,10 @@ End of file on the terminal!
  
 Here is how much of TeX's memory you used:
  7 strings out of 493921
- 265 string characters out of 3144879
+ 427 string characters out of 3144870
  49031 words of memory out of 3000000
  3400 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 5i,0n,1p,109b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 5i,0n,1p,163b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
