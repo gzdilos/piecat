@@ -1,7 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.14)  23 MAY 2015 20:13
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.23)  24 MAY 2015 12:46
 entering extended mode
-**C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/sample-thesis.tex
-(C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/sample-thesis.tex
+**C:/Users/Richard/Documents/uni/Thesis/Source*Code/Thesis-Source-Code/thesis/p
+iecat/Report/unswthesis-2.0/sample-thesis.tex
+
+("C:/Users/Richard/Documents/uni/Thesis/Source Code/Thesis-Source-Code/thesis/p
+iecat/Report/unswthesis-2.0/sample-thesis.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +16,9 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\unswthesis.cls
+
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\unswthesis.cls"
 Document Class: unswthesis 2015/04/30 v2.0.1 Faculty of Engineering, University
  of NSW Thesis Class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
@@ -124,37 +129,242 @@ Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mwe\mwe.sty"
+Package: mwe 2012/05/15 v0.3 Package to support minimal working examples (MWE)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count92
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count93
+\c@Blindtext=\count94
+\c@blind@countparstart=\count95
+\blind@countxx=\count96
+\blindtext@numBlindtext=\count97
+\blind@countyy=\count98
+\c@blindlist=\count99
+\c@blindlistlevel=\count100
+\c@blindlist@level=\count101
+\blind@listitem=\count102
+\c@blind@listcount=\count103
+\c@blind@levelcount=\count104
+\blind@mathformula=\count105
+\blind@Mathformula=\count106
+\c@blind@randomcount=\count107
+\c@blind@randommax=\count108
+\c@blind@pangramcount=\count109
+\c@blind@pangrammax=\count110
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\kantlipsum\kantlipsum.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+Package: expl3 2015/03/01 v5547 L3 programming layer (loader) 
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
+Package: expl3 2015/03/01 v5547 L3 programming layer (code) 
+L3 Module: l3bootstrap 2015/02/28 v5542 L3 Bootstrap code
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count111
+)
+L3 Module: l3names 2015/02/24 v5535 L3 Namespace for primitives
+L3 Module: l3basics 2015/01/27 v5500 L3 Basic definitions
+L3 Module: l3expan 2014/11/27 v5472 L3 Argument expansion
+L3 Module: l3tl 2015/01/27 v5500 L3 Token lists
+L3 Module: l3str 2015/03/01 v5545 L3 Strings
+L3 Module: l3seq 2014/08/23 v5354 L3 Sequences and stacks
+L3 Module: l3int 2015/02/21 v5529 L3 Integers
+\c_max_int=\count112
+\l_tmpa_int=\count113
+\l_tmpb_int=\count114
+\g_tmpa_int=\count115
+\g_tmpb_int=\count116
+L3 Module: l3quark 2014/08/23 v5354 L3 Quarks
+L3 Module: l3prg 2014/08/23 v5354 L3 Control structures
+\g__prg_map_int=\count117
+L3 Module: l3clist 2014/08/23 v5354 L3 Comma separated lists
+L3 Module: l3token 2014/09/15 v5422 L3 Experimental token manipulation
+L3 Module: l3prop 2014/08/23 v5354 L3 Property lists
+L3 Module: l3msg 2015/02/26 v5537 L3 Messages
+L3 Module: l3file 2014/08/24 v5369 L3 File and I/O operations
+\l_iow_line_count_int=\count118
+\l__iow_target_count_int=\count119
+\l__iow_current_line_int=\count120
+\l__iow_current_word_int=\count121
+\l__iow_current_indentation_int=\count122
+L3 Module: l3skip 2014/08/23 v5354 L3 Dimensions and skips
+\c_zero_dim=\dimen113
+\c_max_dim=\dimen114
+\l_tmpa_dim=\dimen115
+\l_tmpb_dim=\dimen116
+\g_tmpa_dim=\dimen117
+\g_tmpb_dim=\dimen118
+\c_zero_skip=\skip56
+\c_max_skip=\skip57
+\l_tmpa_skip=\skip58
+\l_tmpb_skip=\skip59
+\g_tmpa_skip=\skip60
+\g_tmpb_skip=\skip61
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+L3 Module: l3keys 2015/01/27 v5500 L3 Key-value interfaces
+\g__keyval_level_int=\count123
+\l_keys_choice_int=\count124
+L3 Module: l3fp 2014/08/22 v5336 L3 Floating points
+\c__fp_leading_shift_int=\count125
+\c__fp_middle_shift_int=\count126
+\c__fp_trailing_shift_int=\count127
+\c__fp_big_leading_shift_int=\count128
+\c__fp_big_middle_shift_int=\count129
+\c__fp_big_trailing_shift_int=\count130
+\c__fp_Bigg_leading_shift_int=\count131
+\c__fp_Bigg_middle_shift_int=\count132
+\c__fp_Bigg_trailing_shift_int=\count133
+L3 Module: l3box 2014/08/23 v5354 L3 Experimental boxes
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+L3 Module: l3coffins 2014/08/23 v5354 L3 Coffin code layer
+\l__coffin_internal_box=\box31
+\l__coffin_internal_dim=\dimen119
+\l__coffin_offset_x_dim=\dimen120
+\l__coffin_offset_y_dim=\dimen121
+\l__coffin_x_dim=\dimen122
+\l__coffin_y_dim=\dimen123
+\l__coffin_x_prime_dim=\dimen124
+\l__coffin_y_prime_dim=\dimen125
+\c_empty_coffin=\box32
+\l__coffin_aligned_coffin=\box33
+\l__coffin_aligned_internal_coffin=\box34
+\l_tmpa_coffin=\box35
+\l_tmpb_coffin=\box36
+\l__coffin_display_coffin=\box37
+\l__coffin_display_coord_coffin=\box38
+\l__coffin_display_pole_coffin=\box39
+\l__coffin_display_offset_dim=\dimen126
+\l__coffin_display_x_dim=\dimen127
+\l__coffin_display_y_dim=\dimen128
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3candidates 2015/03/01 v5544 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen129
+\l__box_bottom_dim=\dimen130
+\l__box_left_dim=\dimen131
+\l__box_right_dim=\dimen132
+\l__box_top_new_dim=\dimen133
+\l__box_bottom_new_dim=\dimen134
+\l__box_left_new_dim=\dimen135
+\l__box_right_new_dim=\dimen136
+\l__box_internal_box=\box40
+\l__coffin_bounding_shift_dim=\dimen137
+\l__coffin_left_corner_dim=\dimen138
+\l__coffin_right_corner_dim=\dimen139
+\l__coffin_bottom_corner_dim=\dimen140
+\l__coffin_top_corner_dim=\dimen141
+\l__coffin_scaled_total_height_dim=\dimen142
+\l__coffin_scaled_width_dim=\dimen143
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3unicode-data.def"
+File: l3unicode-data.def 2015/03/01 v5544 L3 Unicode data
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
+File: l3pdfmode.def 2015/03/01 v5544 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count134
+))
+Package: kantlipsum 2012/10/14 v0.6 Dummy text in Kantian style
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+Package: xparse 2014/11/25 v5471 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count135
+\l__xparse_m_args_int=\count136
+\l__xparse_mandatory_args_int=\count137
+\l__xparse_processor_int=\count138
+\l__xparse_v_nesting_int=\count139
+)
+\l_kgl_start_int=\count140
+\l_kgl_end_int=\count141
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \kant with sig. 's>{\SplitArgument {1}{-}}O{1-7}' on line
+. 86.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \kantdef with sig. 'mm' on line 101.
+.................................................
+.................................................
+. kantlipsum info: "how-many"
+. 
+. The package provides paragraphs 1 to 164. Values outside this range will be
+. ignored.
+.................................................
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen144
+\captionmargin@=\dimen145
+\captionwidth=\dimen146
+\caption@tempdima=\dimen147
+\caption@indent=\dimen148
+\caption@parindent=\dimen149
+\caption@hangindent=\dimen150
+)
+\c@ContinuedFloat=\count142
+)
 \@input{definitions.aux}
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\definitions.tex)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.aux
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\introduction.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\background.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\plan.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\definitions.tex")
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\sample-thesis.aux"
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\introduction.aux")
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\background.aux")
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\plan.aux"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count92
-\scratchdimen=\dimen113
-\scratchbox=\box26
-\nofMPsegments=\count93
-\nofMParguments=\count94
+\scratchcounter=\count143
+\scratchdimen=\dimen151
+\scratchbox=\box41
+\nofMPsegments=\count144
+\nofMParguments=\count145
 \everyMPshowfont=\toks16
-\MPscratchCnt=\count95
-\MPscratchDim=\dimen114
-\MPnumerator=\count96
-\makeMPintoPDFobject=\count97
+\MPscratchCnt=\count146
+\MPscratchDim=\dimen152
+\MPnumerator=\count147
+\makeMPintoPDFobject=\count148
 \everyMPtoPDFconversion=\toks17
 )
 *geometry* driver: auto-detecting
@@ -191,33 +401,37 @@ LaTeX Font Info:    ... okay on input line 37.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\@tmpb@x=\box27
-\@titlewidth=\dimen115
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 41.
+\@tmpb@x=\box42
+\@titlewidth=\dimen153
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 44.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 <crest.pdf, id=1, 147.27522pt x 154.20912pt>
 File: crest.pdf Graphic file (type pdf)
  <use crest.pdf>
-Package pdftex.def Info: crest.pdf used on input line 41.
+Package pdftex.def Info: crest.pdf used on input line 44.
 (pdftex.def)             Requested size: 147.27486pt x 154.20872pt.
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 41.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14> on input line 41.
+(Font)              <14> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.79996> on input line 41.
+(Font)              <9.79996> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 41.
+(Font)              <7> on input line 44.
  [1
 
 
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/User/Desktop/pie
-cat/Report/unswthesis-2.0/crest.pdf>]
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.toc
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Richard/Document
+s/uni/Thesis/Source Code/Thesis-Source-Code/thesis/piecat/Report/unswthesis-2.0
+/crest.pdf>]
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\sample-thesis.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -229,83 +443,118 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2
 
 ]
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\introduction.tex
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\introduction.tex"
 Chapter 1.
 [1
 
 
 
 
-]) [2] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\background.tex
+]) [2]
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\background.tex"
 Chapter 2.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 13.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ” in font cmr10!
-
-Underfull \vbox (badness 2644) has occurred while \output is active []
-
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
  [3
 
 
 
 ]
-[4]) [5] [6] (C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\plan.tex
+<images/factoranalysis.jpg, id=64, 415.5525pt x 388.45125pt>
+File: images/factoranalysis.jpg Graphic file (type jpg)
+
+<use images/factoranalysis.jpg>
+Package pdftex.def Info: images/factoranalysis.jpg used on input line 31.
+(pdftex.def)             Requested size: 415.55148pt x 388.45029pt.
+
+Overfull \hbox (2.98651pt too wide) in paragraph at lines 31--32
+ [] 
+ []
+
+[4 <C:/Users/Richard/Documents/uni/Thesis/Source Code/Thesis-Source-Code/thesis
+/piecat/Report/unswthesis-2.0/images/factoranalysis.jpg>] [5] [6] [7] [8])
+[9]
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\plan.tex"
 Chapter 3.
-<images/blockdiagram.jpg, id=75, 499.8675pt x 481.8pt>
+<images/blockdiagram.jpg, id=85, 499.8675pt x 481.8pt>
 File: images/blockdiagram.jpg Graphic file (type jpg)
 
 <use images/blockdiagram.jpg>
-Package pdftex.def Info: images/blockdiagram.jpg used on input line 16.
+Package pdftex.def Info: images/blockdiagram.jpg used on input line 20.
 (pdftex.def)             Requested size: 249.93314pt x 240.8994pt.
- [7
+ [10
 
 
 
-]
-Underfull \vbox (badness 2426) has occurred while \output is active []
+] [11 <C:/Users/Richard/Documents/uni/Thesis/Source Code/Thesis-Source-Code/the
+sis/piecat/Report/unswthesis-2.0/images/blockdiagram.jpg>] <images/sem1thesis.j
+pg, id=93, 391.4625pt x 127.97812pt>
+File: images/sem1thesis.jpg Graphic file (type jpg)
 
- [8 <C:/Users/User/Desktop/piecat/Report/unswthesis-2.0/images/blockdiagram.jpg
->]) [9]
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.bbl
+<use images/sem1thesis.jpg>
+Package pdftex.def Info: images/sem1thesis.jpg used on input line 34.
+(pdftex.def)             Requested size: 391.46153pt x 127.9778pt.
+
+<images/sem2thesis.jpg, id=94, 623.32875pt x 241.65282pt>
+File: images/sem2thesis.jpg Graphic file (type jpg)
+
+<use images/sem2thesis.jpg>
+Package pdftex.def Info: images/sem2thesis.jpg used on input line 39.
+(pdftex.def)             Requested size: 498.66368pt x 193.32251pt.
+
+Overfull \hbox (86.09871pt too wide) in paragraph at lines 39--40
+ [] 
+ []
+
+[12 <C:/Users/Richard/Documents/uni/Thesis/Source Code/Thesis-Source-Code/thesi
+s/piecat/Report/unswthesis-2.0/images/sem1thesis.jpg> <C:/Users/Richard/Documen
+ts/uni/Thesis/Source Code/Thesis-Source-Code/thesis/piecat/Report/unswthesis-2.
+0/images/sem2thesis.jpg>]) [13]
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\sample-thesis.bbl"
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-) [10
+) [14
 
 
 
 ]
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\sample-thesis.aux
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\introduction.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\background.aux)
-(C:\Users\User\Desktop\piecat\Report\unswthesis-2.0\plan.aux)) ) 
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\sample-thesis.aux"
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\introduction.aux")
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\background.aux")
+("C:\Users\Richard\Documents\uni\Thesis\Source Code\Thesis-Source-Code\thesis\p
+iecat\Report\unswthesis-2.0\plan.aux")) ) 
 Here is how much of TeX's memory you used:
- 2140 strings out of 493921
- 30750 string characters out of 3144879
- 95332 words of memory out of 3000000
- 5389 multiletter control sequences out of 15000+200000
+ 9652 strings out of 493921
+ 182252 string characters out of 3144870
+ 642191 words of memory out of 3000000
+ 12852 multiletter control sequences out of 15000+200000
  17884 words of font info for 43 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 32i,13n,45p,1192b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
-/helvetic/uhvr8a.pfb>
-Output written on sample-thesis.pdf (12 pages, 307974 bytes).
+ 39i,13n,45p,10518b,362s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8
+a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on sample-thesis.pdf (16 pages, 547209 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
+ 131 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
